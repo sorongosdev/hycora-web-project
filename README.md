@@ -3,7 +3,7 @@
 하이코라 웹페이지 프로젝트 (Keep It Simple)
 
 > http://hycora-web.ap-northeast-2.elasticbeanstalk.com/event
-[image](https://user-images.githubusercontent.com/61692372/215238650-73bb822b-77db-4d02-8335-0cae5b65d5eb.png)
+![image](https://user-images.githubusercontent.com/61692372/215238650-73bb822b-77db-4d02-8335-0cae5b65d5eb.png)
 
 
 ## Run
