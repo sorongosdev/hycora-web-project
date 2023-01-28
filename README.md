@@ -3,7 +3,10 @@
 하이코라 웹페이지 프로젝트 (Keep It Simple)     
 Comment/Contributor은 DB 비활성화
 
+## 배포
 > http://hycora-web.ap-northeast-2.elasticbeanstalk.com/event
+
+## Screenshots
 ![image](https://user-images.githubusercontent.com/61692372/215238650-73bb822b-77db-4d02-8335-0cae5b65d5eb.png)
 ![image](https://user-images.githubusercontent.com/61692372/215238972-0459df95-ff21-4ec3-a019-aa73f402a69d.png)
 
