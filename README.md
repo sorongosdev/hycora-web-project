@@ -2,7 +2,7 @@
 
 하이코라 웹페이지 프로젝트 (Keep It Simple)
 
-> https://hycora-dev.herokuapp.com/
+> http://hycora-web.ap-northeast-2.elasticbeanstalk.com/event
 
 ## Run
 
